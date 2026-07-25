@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =================================================================================================================================================
 
 * 🌍  I'm based in Thailand
-* ✉️  You can contact me at [th330987654321@gmail.com](mailto:th330987654321@gmail.com)
+* ✉️  You can contact me at [th330987654321@gmail.com](mailto:natthakit4024@gmail.com)
 * 🧠  I'm learning I am studying in university
 
 ### Skills
