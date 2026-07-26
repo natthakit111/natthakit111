@@ -40,7 +40,7 @@
 
 ## 📌 Featured Project
 
-### 🏢 [DormFlow — Smart Dormitory Management System](https://github.com/natthakit111/SDMS)
+### 🏢 [Smart Dormitory Management System](https://github.com/natthakit111/SDMS)
 
 ![Status](https://img.shields.io/badge/Status-In%20Progress%20~70--80%25-yellow?style=flat-square)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
