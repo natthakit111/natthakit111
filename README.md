@@ -16,9 +16,9 @@
 ## 👀 About Me
 
 - 💻 Passionate about **Back-End Development** & **System Administration**
-- 📚 Currently learning: *(e.g. Docker, PostgreSQL — fill in what you're actually studying now)*
+- 📚 Currently learning: *(e.g. Docker, Mysql — fill in what you're actually studying now)*
 - 🌱 Building real-world projects to prepare for my internship search
-- ⚡ Fun fact: *(optional — add something personal here)*
+- ⚡ Fun fact: Gamer,  Anime fan,  Weekend footballer
 
 <br>
 
